@@ -403,7 +403,7 @@
 				DEVELOPMENT_TEAM = 9X36NR9J6X;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "VK-WeatherApp/Info.plist";
-				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = Location;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Предоставьте доступ, чтобы смотреть погоду в вашем регионе";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
@@ -432,7 +432,7 @@
 				DEVELOPMENT_TEAM = 9X36NR9J6X;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "VK-WeatherApp/Info.plist";
-				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = Location;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Предоставьте доступ, чтобы смотреть погоду в вашем регионе";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
